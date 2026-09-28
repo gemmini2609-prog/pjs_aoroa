@@ -1,0 +1,9 @@
+{
+  "model_id": "ridge_11",
+  "parameters": {
+    "fourier_pairs": 1,
+    "alpha": 100.0,
+    "half_life": 365.0,
+    "trend": true
+  }
+}

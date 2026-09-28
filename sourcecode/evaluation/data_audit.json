@@ -1,0 +1,24 @@
+{
+  "transactions": 72573,
+  "customers": 800,
+  "days": 703,
+  "start": "2022-07-01",
+  "end": "2024-06-02",
+  "duplicate_rows": 0,
+  "missing": {
+    "date": 0,
+    "user_id": 0,
+    "payment_method": 2314,
+    "discount_rate": 0,
+    "app_time_min": 0,
+    "paid_amount": 0
+  },
+  "total_paid": 3970457093.0,
+  "amount_iqr_upper": 129132.0,
+  "amount_iqr_above": 1530,
+  "amount_2000_rows": 878,
+  "app_time_1_rows": 4574,
+  "complete_months": 23,
+  "python": "3.12.3",
+  "input_sha256": "3b0ec7c70f5d106811e4785e624dfcf9402080d4d83a2b1ea4b0da21202407af"
+}

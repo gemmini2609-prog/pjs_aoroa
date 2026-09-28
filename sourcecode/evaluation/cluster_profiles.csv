@@ -1,0 +1,4 @@
+segment,customers,discount_usage_median,active_months_median,transactions_median,recency_days_median,mean_paid_median,total_revenue
+1,241,0.7764705882352941,23.0,97.0,3.0,33832.33,842653078
+2,471,0.12195121951219512,23.0,91.0,4.0,58198.8,2893741291
+3,88,0.125,14.0,48.0,113.5,53447.53427818062,234062724
